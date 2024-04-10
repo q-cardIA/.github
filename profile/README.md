@@ -1,5 +1,4 @@
-## Hi there 👋
-
+We are a team of students and researchers based at the Eindhoven University of Technology working on the automated analysis of quantitative cardiac MRI data with machine learning.
 <!--
 
 **Here are some ideas to get you started:**
